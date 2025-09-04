@@ -68,5 +68,17 @@ body{
     margin-top: 50px;
     align-items: center;
     padding: 0 20px;
-
+}
+.col{
+    display: flex;
+    align-items: center;
+    text-align: left;
+}
+.col img{
+    width: 40px;
+    margin-right: 10px;
+}
+.humidity , .wind {
+    font-size: 28px;
+    margin-top: -6px;
 }
